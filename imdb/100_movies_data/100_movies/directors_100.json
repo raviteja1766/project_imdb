@@ -1,0 +1,342 @@
+[
+    {
+        "name": "James Cameron",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Gore Verbinski",
+        "gender": "male",
+        "no_of_facebook_likes": "563"
+    },
+    {
+        "name": "Sam Mendes",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Christopher Nolan",
+        "gender": "male",
+        "no_of_facebook_likes": "22000"
+    },
+    {
+        "name": "Doug Walker",
+        "gender": "male",
+        "no_of_facebook_likes": "131"
+    },
+    {
+        "name": "Andrew Stanton",
+        "gender": "male",
+        "no_of_facebook_likes": "475"
+    },
+    {
+        "name": "Sam Raimi",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Nathan Greno",
+        "gender": "male",
+        "no_of_facebook_likes": "15"
+    },
+    {
+        "name": "Joss Whedon",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "David Yates",
+        "gender": "male",
+        "no_of_facebook_likes": "282"
+    },
+    {
+        "name": "Zack Snyder",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Bryan Singer",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Marc Forster",
+        "gender": "male",
+        "no_of_facebook_likes": "395"
+    },
+    {
+        "name": "Andrew Adamson",
+        "gender": "male",
+        "no_of_facebook_likes": "80"
+    },
+    {
+        "name": "Rob Marshall",
+        "gender": "male",
+        "no_of_facebook_likes": "252"
+    },
+    {
+        "name": "Barry Sonnenfeld",
+        "gender": "male",
+        "no_of_facebook_likes": "188"
+    },
+    {
+        "name": "Peter Jackson",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Marc Webb",
+        "gender": "male",
+        "no_of_facebook_likes": "464"
+    },
+    {
+        "name": "Ridley Scott",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Chris Weitz",
+        "gender": "male",
+        "no_of_facebook_likes": "129"
+    },
+    {
+        "name": "Anthony Russo",
+        "gender": "male",
+        "no_of_facebook_likes": "94"
+    },
+    {
+        "name": "Peter Berg",
+        "gender": "male",
+        "no_of_facebook_likes": "532"
+    },
+    {
+        "name": "Colin Trevorrow",
+        "gender": "male",
+        "no_of_facebook_likes": "365"
+    },
+    {
+        "name": "Shane Black",
+        "gender": "male",
+        "no_of_facebook_likes": "1000"
+    },
+    {
+        "name": "Tim Burton",
+        "gender": "male",
+        "no_of_facebook_likes": "13000"
+    },
+    {
+        "name": "Brett Ratner",
+        "gender": "male",
+        "no_of_facebook_likes": "420"
+    },
+    {
+        "name": "Dan Scanlon",
+        "gender": "male",
+        "no_of_facebook_likes": "37"
+    },
+    {
+        "name": "Michael Bay",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Joseph Kosinski",
+        "gender": "male",
+        "no_of_facebook_likes": "364"
+    },
+    {
+        "name": "John Lasseter",
+        "gender": "male",
+        "no_of_facebook_likes": "487"
+    },
+    {
+        "name": "Martin Campbell",
+        "gender": "male",
+        "no_of_facebook_likes": "258"
+    },
+    {
+        "name": "Lee Unkrich",
+        "gender": "male",
+        "no_of_facebook_likes": "125"
+    },
+    {
+        "name": "McG",
+        "gender": "female",
+        "no_of_facebook_likes": "368"
+    },
+    {
+        "name": "James Wan",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "J.J. Abrams",
+        "gender": "female",
+        "no_of_facebook_likes": "14000"
+    },
+    {
+        "name": "Baz Luhrmann",
+        "gender": "female",
+        "no_of_facebook_likes": "1000"
+    },
+    {
+        "name": "Mike Newell",
+        "gender": "male",
+        "no_of_facebook_likes": "179"
+    },
+    {
+        "name": "Guillermo del Toro",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Steven Spielberg",
+        "gender": "male",
+        "no_of_facebook_likes": "14000"
+    },
+    {
+        "name": "Peter Sohn",
+        "gender": "male",
+        "no_of_facebook_likes": "113"
+    },
+    {
+        "name": "Mark Andrews",
+        "gender": "male",
+        "no_of_facebook_likes": "56"
+    },
+    {
+        "name": "Justin Lin",
+        "gender": "male",
+        "no_of_facebook_likes": "681"
+    },
+    {
+        "name": "Roland Emmerich",
+        "gender": "male",
+        "no_of_facebook_likes": "776"
+    },
+    {
+        "name": "Robert Zemeckis",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Lana Wachowski",
+        "gender": "female",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Pete Docter",
+        "gender": "male",
+        "no_of_facebook_likes": "0"
+    },
+    {
+        "name": "Rob Letterman",
+        "gender": "male",
+        "no_of_facebook_likes": "11"
+    },
+    {
+        "name": "Jon Favreau",
+        "gender": "male",
+        "no_of_facebook_likes": "4000"
+    },
+    {
+        "name": "Martin Scorsese",
+        "gender": "male",
+        "no_of_facebook_likes": "17000"
+    },
+    {
+        "name": "Rob Cohen",
+        "gender": "male",
+        "no_of_facebook_likes": "357"
+    },
+    {
+        "name": "David Ayer",
+        "gender": "male",
+        "no_of_facebook_likes": "452"
+    },
+    {
+        "name": "Tom Shadyac",
+        "gender": "male",
+        "no_of_facebook_likes": "293"
+    },
+    {
+        "name": "Doug Liman",
+        "gender": "male",
+        "no_of_facebook_likes": "218"
+    },
+    {
+        "name": "Kevin Reynolds",
+        "gender": "male",
+        "no_of_facebook_likes": "58"
+    },
+    {
+        "name": "Stephen Sommers",
+        "gender": "male",
+        "no_of_facebook_likes": "208"
+    },
+    {
+        "name": "Rupert Sanders",
+        "gender": "male",
+        "no_of_facebook_likes": "274"
+    },
+    {
+        "name": "Robert Stromberg",
+        "gender": "male",
+        "no_of_facebook_likes": "171"
+    },
+    {
+        "name": "Matt Reeves",
+        "gender": "male",
+        "no_of_facebook_likes": "198"
+    },
+    {
+        "name": "Roland Joff\u00e9",
+        "gender": "male",
+        "no_of_facebook_likes": "596"
+    },
+    {
+        "name": "Carl Rinsch",
+        "gender": "male",
+        "no_of_facebook_likes": "47"
+    },
+    {
+        "name": "Mike Mitchell",
+        "gender": "male",
+        "no_of_facebook_likes": "31"
+    },
+    {
+        "name": "Brad Bird",
+        "gender": "male",
+        "no_of_facebook_likes": "663"
+    },
+    {
+        "name": "Don Hall",
+        "gender": "male",
+        "no_of_facebook_likes": "38"
+    },
+    {
+        "name": "Rich Moore",
+        "gender": "male",
+        "no_of_facebook_likes": "66"
+    },
+    {
+        "name": "Dean DeBlois",
+        "gender": "male",
+        "no_of_facebook_likes": "255"
+    },
+    {
+        "name": "Jonathan Mostow",
+        "gender": "male",
+        "no_of_facebook_likes": "84"
+    },
+    {
+        "name": "James Gunn",
+        "gender": "male",
+        "no_of_facebook_likes": "571"
+    },
+    {
+        "name": "Hideaki Anno",
+        "gender": "male",
+        "no_of_facebook_likes": "28"
+    }
+]
